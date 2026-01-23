@@ -1,4 +1,4 @@
-# LAB Programming for Network Automation
+# Programming for Network Automation
 
 ---
 
