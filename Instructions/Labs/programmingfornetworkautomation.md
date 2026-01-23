@@ -349,10 +349,10 @@ from netmiko import ConnectHandler
 # เปลี่ยนข้อมูล device ให้ตรงกับอุปกรณ์ที่จะ access
 device = {
     "device_type": "cisco_ios",
-    "host": "52.163.103.83",
-    "username": "ciscoadmin",
-    "password": "Cisco1234567",
-    #"secret": "cisco",  # ถ้ามี enable
+    "host": "xx.xx.xx.xx",
+    "username": "xxxx",
+    "password": "xxxxx",
+    #"secret": "xxxx",  # ถ้ามี enable
 }
 
 def main():
@@ -885,9 +885,9 @@ from pprint import pprint
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # TODO: ผู้เรียนเปลี่ยนค่าตาม Lab จริง
-ROUTER_IP = "52.163.103.83"     # IP ของ IOS-XE
-USERNAME = "restuser"
-PASSWORD = "restpass"
+ROUTER_IP = "xx.xx.xx.xx"     # IP ของ IOS-XE
+USERNAME = "xxxx"
+PASSWORD = "xxxx"
 
 # RESTCONF base URL
 BASE_URL = f"https://{ROUTER_IP}/restconf/data"
