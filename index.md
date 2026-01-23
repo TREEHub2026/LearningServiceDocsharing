@@ -1,13 +1,19 @@
-# Learning Service Lab Sharing:
+# Learning Service Lab Sharing
 
-## 🎯 Objective
-This portal use for help internal training
-
+## Objective
+This portal is intended to support internal training by providing centralized access to hands-on lab materials used within NTT DATA.
 
 ---
 
-## 📘 Class
+## Class Catalog
 
-2026 
-  Programming for Network Automation 
-    [Lab Assisstant](Instructions/programmingfornetworkautomantion.html)
+### 2026
+
+#### Programming for Network Automation
+- [Lab Assistant](Instructions/programmingfornetworkautomantion.html)
+
+---
+
+## Internal Use Disclaimer
+This content is intended for internal training purposes only.
+Do not distribute externally without appropriate approval.
