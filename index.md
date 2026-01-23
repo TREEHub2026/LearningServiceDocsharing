@@ -10,7 +10,7 @@ This portal is intended to support internal training by providing centralized ac
 ### 2026
 
 #### Programming for Network Automation
-- [Lab Assistant](Instructions/Labs/programmingfornetworkautomantion.html)
+- [Lab Assistant](Instructions/Labs/programmingfornetworkautomation.html)
 
 ---
 
