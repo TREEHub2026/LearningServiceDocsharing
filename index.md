@@ -1,7 +1,7 @@
 # Learning Service Lab Sharing
 
 ## Objective
-This portal is intended to support internal training by providing centralized access to hands-on lab materials used within NTT DATA.
+This portal is intended to support internal training by providing centralized access to hands-on lab materials used within Company.
 
 ---
 
