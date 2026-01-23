@@ -2,7 +2,7 @@
 
 ---
 
-## Lab 1 – Run your first Script
+## Lab Assistant for Network Automation
 
 ### Lab 1.1 – Hello Network Engineer
 
