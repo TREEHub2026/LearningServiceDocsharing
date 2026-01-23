@@ -4,9 +4,9 @@ exclude:
   - .github/
 header_pages:
   - index.html
-author: Microsoft Learning
-twitter_username: mslearning
-github_username:  MicrosoftLearning
+author: Learning Service
+twitter_username: LSlearning
+github_username:  LearningService
 plugins:
   - jekyll-sitemap
   - jekyll-mentions
@@ -15,4 +15,4 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-title: Lab Exercises
+title: Lab Exercises Assistant
