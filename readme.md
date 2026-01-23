@@ -1,6 +1,6 @@
 ## Internal Use Only
 
-This repository is intended for internal training at NTT DATA.
+This repository is intended for internal training 
 Do not share externally without approval.
 
 ## Ownership
