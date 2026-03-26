@@ -10,7 +10,7 @@ This portal is intended to support internal training by providing centralized ac
 ### 2026
 
 #### Programming for Network Automation
-- [Lab Assistant](Instructions/Labs/programmingfornetworkautomation.md)
+- [Lab Assistant]<!--(Instructions/Labs/programmingfornetworkautomation.md) -->
 
 #### Basic Linux + Shell Script
 - [Lab Assistant](Instructions/Labs/basiclinuxshellscript.md)
